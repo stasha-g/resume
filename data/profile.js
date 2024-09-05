@@ -6,9 +6,8 @@ const profileData = {
   about: {
     intro: `Senior Software Engineer with 6 years of frontend development experience. Expert in building high-performance UI and seamless UX. Experienced in leading projects, migrating legacy systems, and creating reusable components. Skilled in A/B testing, cross-platform compatibility, and responsive design. Effective mentor and collaborator dedicated to continuous learning and innovation.`,
     contact: {
-      email: "imvpn22@gmail.com",
-      phone: "8zero8 465 6814",
-      address: "Bangalore, IN",
+      email: "gardasev@hawaii.edu",
+      address: "Honolulu, HI",
     },
   },
   links: [
